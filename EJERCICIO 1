@@ -1,0 +1,17 @@
+#include <iostream>
+Uso del espacio de nombres std;
+int main() {
+    int a,n;
+    cin>>n;
+    a=0;
+ para (int i=1; i<=n; I++)
+    {
+
+ a = a + (2 * i + 5);
+
+    }
+   cout<<a;
+
+
+ devuelve 0;
+}
